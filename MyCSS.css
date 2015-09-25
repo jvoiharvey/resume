@@ -1,0 +1,66 @@
+body
+{
+	background-image: url(http://1.bp.blogspot.com/-MqovKjJPYWU/UR-RNEpR5-I/AAAAAAAAAMI/lUv9DlGr3Do/s400/ppt_background_bluewave.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+#img-circle{
+	border-radius: 50%;
+	position: relative;
+	width: 200px;
+
+}
+h3{
+	float:left;
+	color: black;
+
+}
+p{
+	color:black;
+	font-size: 16px;
+}
+#img-round{
+	border-radius:25px;
+	width: 300px; 
+	height:380px;
+	transform: rotate(350deg);
+	margin-right:-5px;
+	margin-top:-5px;
+
+}
+.line{
+	border-left:1px solid;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+
+}
+#about-me{
+	float:left;
+	line-height: 50px;
+}
+
+
+.headings{
+	text-decoration:underline;
+	font-size:18px;
+	font-family:serif;
+	font-weight:bold;
+}
+table, td{
+	color:black;
+	font-size: 20px;
+}
+
+a:hover {
+	font-weight: bold
+	}
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #668284;
+	clear: both;
+	font-family: Verdana, sans-serif;
+}
